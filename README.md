@@ -5,7 +5,7 @@ UI/UX Designer & Front-end Developer
 #### Links where you can find me!
 
 - 📝 Checkout my [Resume]()
-- 📫 How to reach me: [eslamjobeh@gmail.com](eslamjobeh@gmail.com)
+- 📫 How to reach me: eslamjobeh@gmail.com
 - 🖥️ See my work at [aljobeh](https://aljobeh.com/)
 
 ### Github Usage ~ Status
