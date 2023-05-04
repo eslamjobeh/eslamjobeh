@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Eslam Jobeh
+## Hi there 👋, I'm Eslam Jobeh
 
-UI/UX Designer & Front-end Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&vCenter=true&duration=1500&pause=1000&color=2F81F7&width=470&height=20&lines=UI%2FUX+Designer;Front-end+Developer)](https://aljobeh.com/)
 
-#### Links where you can find me!
+### Links where you can find me!
 
 - 📝 Checkout my [Resume]()
 - 📫 How to reach me: eslamjobeh@gmail.com
