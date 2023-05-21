@@ -4,7 +4,7 @@
 
 ### Links where you can find me!
 
-- 📝 Checkout my [Resume]()
+- 📝 Checkout my [Resume](https://aljobeh.com/Eslam%20Jobeh.pdf)
 - 📫 How to reach me: eslamjobeh@gmail.com
 - 🖥️ See my work at [aljobeh](https://aljobeh.com/)
 
